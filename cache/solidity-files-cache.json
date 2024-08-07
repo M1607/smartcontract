@@ -1,0 +1,182 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/madelinehirschfeld/Library/CloudStorage/OneDrive-Personal/University of Denver/ICT 4375/Week 3/Hirschfeld.Madeline.Week3Assignment/contracts/1_Storage.sol": {
+      "lastModificationDate": 1720365623450,
+      "contentHash": "f6561435dff3ad60c78a9644c9a02f7e",
+      "sourceName": "contracts/1_Storage.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.2 <0.9.0"
+      ],
+      "artifacts": [
+        "Storage"
+      ]
+    },
+    "/Users/madelinehirschfeld/Library/CloudStorage/OneDrive-Personal/University of Denver/ICT 4375/Week 3/Hirschfeld.Madeline.Week3Assignment/contracts/2_Owner.sol": {
+      "lastModificationDate": 1720366620124,
+      "contentHash": "f30ce392ff659a1c4c6588dbf933e09c",
+      "sourceName": "contracts/2_Owner.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "Owner"
+      ]
+    },
+    "/Users/madelinehirschfeld/Library/CloudStorage/OneDrive-Personal/University of Denver/ICT 4375/Week 3/Hirschfeld.Madeline.Week3Assignment/node_modules/hardhat/console.sol": {
+      "lastModificationDate": 1720366498414,
+      "contentHash": "896f68942c3a20e9ae3c3c5bfd3add54",
+      "sourceName": "hardhat/console.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "console"
+      ]
+    },
+    "/Users/madelinehirschfeld/Library/CloudStorage/OneDrive-Personal/University of Denver/ICT 4375/Week 3/Hirschfeld.Madeline.Week3Assignment/contracts/3_Ballot.sol": {
+      "lastModificationDate": 1720365664201,
+      "contentHash": "be53f36fd34ceebd80233430f854df6a",
+      "sourceName": "contracts/3_Ballot.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "Ballot"
+      ]
+    },
+    "/Users/madelinehirschfeld/Library/CloudStorage/OneDrive-Personal/University of Denver/ICT 4375/Week 3/Hirschfeld.Madeline.Week3Assignment/contracts/Hostel.sol": {
+      "lastModificationDate": 1720369949918,
+      "contentHash": "8febc3c46ba0275c39caef7000c23a7b",
+      "sourceName": "contracts/Hostel.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.16 <0.9.0"
+      ],
+      "artifacts": [
+        "Hostel"
+      ]
+    }
+  }
+}
